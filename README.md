@@ -1,0 +1,1 @@
+example to use wav2vec 2.0 using the pretrained wav2vec_small_960h.pt
